@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="AI Brain Animation" width="200"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Neural Network Animation" width="250"/>
 </p>
 
 
