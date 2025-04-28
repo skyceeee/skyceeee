@@ -32,7 +32,7 @@
 
 ## 💬 Contact Me
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/gökçe-keskin-9b43b8213/)
-- 📧 [Send me an Email](keskingokcee@gmail.com)
+- 📧 [Send me an Email](mailto:keskingokcee@gmail.com)
 
 ---
 
