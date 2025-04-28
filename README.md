@@ -27,19 +27,12 @@
 ## ✨ A Little Motto
 > **"Learning never stops 🚀"**
 
----
-
-## 📊 GitHub Stats
-
-![Gökçe's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical(https://github.com/skyceeee))
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
 
 ---
 
 ## 💬 Contact Me
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/gökçe-keskin-9b43b8213/))
-- [Email](keskingokcee@gmail.com)
+- 📫 [LinkedIn Profile](https://www.linkedin.com/in/gökçe-keskin-9b43b8213/)
+- 📧 [Send me an Email](keskingokcee@gmail.com)
 
 ---
 
