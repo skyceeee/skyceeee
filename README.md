@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" alt="AI Animation" width="200"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="AI Brain Animation" width="200"/>
 </p>
 
 
