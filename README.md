@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Neural Network Animation" width="250"/>
-</p>
-
 
 # 👋 Hi, I'm Gökçe!
 
