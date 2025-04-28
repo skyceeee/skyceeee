@@ -6,6 +6,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat)
 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="AI Brain Animation" width="400"/>
+
+
 
 
 ---
