@@ -1,4 +1,7 @@
-<img src="GIF_LINKİ" alt="AI Animation" width="200" align="right"/>
+<p align="right">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" alt="AI Animation" width="200"/>
+</p>
+
 
 # 👋 Hi, I'm Gökçe!
 
