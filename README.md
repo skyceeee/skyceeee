@@ -1,3 +1,5 @@
+<img src="GIF_LINKİ" alt="AI Animation" width="200" align="right"/>
+
 # 👋 Hi, I'm Gökçe!
 
 🎓 I'm a Computer Engineering graduate, 24 years old, and a passionate AI enthusiast.
@@ -5,10 +7,6 @@
 ![AI Lover Badge](https://img.shields.io/badge/AI%20Lover-❤️‍🔥-brightgreen)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat)
-
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="AI Brain Animation" width="400"/>
-
-
 
 
 ---
