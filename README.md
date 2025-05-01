@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Gökçe!
+# 👋 Hi, I'm Gökçe! :)
 
 🎓 I'm a Computer Engineering graduate, 24 years old, and a passionate AI enthusiast.
 
