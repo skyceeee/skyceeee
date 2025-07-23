@@ -21,8 +21,6 @@
 - OpenCV, YOLO, MediaPipe
 - SQL Server, ASP.NET Core
 - Docker, Git, GitHub
-
-## 🌱 Currently Learning
 - Deep learning-based object detection and classification
 - Embedded AI systems (Jetson Nano, Coral TPU)
 
